@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077777006360",
+    "project_id": "jghstore-f456a",
+    "storage_bucket": "jghstore-f456a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077777006360:android:a37e2d6b9586678817e86d",
+        "android_client_info": {
+          "package_name": "com.fiqri.jghstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077777006360-stbqf1ibtjhj20s0ond5vq2ncdckc6h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXrufCHwRmtZZll3D9KLYdAuLEDaZvmoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077777006360-stbqf1ibtjhj20s0ond5vq2ncdckc6h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JGH STORE</string>
+
+    <string name="head1">Pengiriman</string>
+    <string name="head2">Belanja</string>
+    <string name="head3">pembayaran</string>
+
+    <string name="desc1">Kami menyediakan pengiriman online dengan ekspidisi yang ada dan bisa datang ke gerai kami</string>
+    <string name="desc2">Kami mempermudah proses pemesanan produk, terutama dalam mencari produk herbal</string>
+    <string name="desc3">Kami menyediakan pembayaran via transfer bank dan pembayaran sejenisnya</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
